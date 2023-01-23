@@ -1,1 +1,1 @@
-# Program solving differential equation using finite elements method.
+# Heat transport differantial equation using finite elements method in Julia.
